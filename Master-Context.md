@@ -22,7 +22,7 @@ The **recurring cubic family** is our strongest signal:
 - Keep runtime **<8 hours on Mac** and **<6 hours on 8-core VMs**.
 - Use mpmath dps=50 or higher.
 - Background with nohup and monitor with tail -f and watch on .db files.
-- Name files descriptively (e.g. seeded_ii_higgs_137_mac.py).
+- Name files descriptively.
 - Always mention the recurring cubic family in script comments.
 
 ## Current Priority
