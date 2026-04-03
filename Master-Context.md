@@ -32,4 +32,9 @@ New Grok conversations must start with:
 > Resume from GitHub: https://github.com/sparcnova-dev/IIH_CMF
 and immediately read Master-Context.md for full strategy and technical rules.
 
-Last updated: April 3, 2026
+### Research Journal (Last updated: April 3, 2026)
+- **April 3** – Mac triple-target i^i + Higgs VEV + 137 (light seeded) finished with 0 matches. Recurring cubic did not appear in narrow ranges.
+- **April 2–3** – Launched multiple seeded jobs (broad cubic, symmetry-filtered, i^i triple) across 3 GCP VMs + Mac.
+- **March 31–April 2** – Identified recurring cubic family as strongest signal across π + Higgs + 137 runs. Shifted to seeded perturbation strategy to anticipate fertile regions.
+- **Ongoing** – Focus remains on testing self-collapse transforms (i^i) and verifying if the cubic is triple-specific.
+
