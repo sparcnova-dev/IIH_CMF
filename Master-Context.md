@@ -13,9 +13,8 @@ The **recurring cubic family** is our strongest signal:
 ## Current Strategy: Seeded Perturbation (Strict)
 - Treat the recurring cubic as a **seed/template**.
 - Search **only very narrow neighborhoods** around its **exact coefficients**.
-- Use `search_range=3` and coef ranges **tightly centered** on the cubic values.
-- Example narrow ranges: a_coef_range=[0,2] or [-7,-4] for a(n), b_coef_range=[-2,0] or [4,7] for b(n), plus ±1 max.
-- Never use broad ranges like [-7,2] or [-6,6] unless explicitly justified in Master-Context.md.
+- Use `search_range=3` and coef ranges **tightly centered** on the cubic values (e.g. a_coef_range=[0,2] for leading +1, b_coef_range=[-2,0] for leading -1, plus ±1 max).
+- Never use broad ranges like [-6,1] or [-7,2] unless explicitly justified.
 
 ## Technical Rules for Scripts (Strict - must be followed exactly)
 - Always create .py files with **nano** (never cat heredoc).
