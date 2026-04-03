@@ -1,15 +1,16 @@
-# IIH-CMF Master State Summary
-**Last updated:** March 31, 2026  
-**Project:** SparcNova LLC – Invariant Information Holarchy (IIH) + Conservative Matrix Field (CMF)
+# IIH + CMF Research – Persistent Context (April 2026)
 
-## Current Run Status
-- Triple-target (π + Higgs VEV + 137) on cmf-search-stable: **Finished** (10,022+ preliminary candidates)
-- Previous ultra-narrowed searches on Cand 1 & Cand 15: Finished
+**Goal**  
+Explore Invariant Information Holography (IIH) under Logos Realism using Conservative Matrix Fields (CMF) to find unifying matrices that collapse mathematical invariants and physical fine-tuning constants.
 
-## Resume Protocol
-In any new Grok conversation, paste this single line at the top:
+**Core Discovery**  
+Recurring cubic family that appears across many targets:
+- a(n) = n³ − 6n² − 6n − 5
+- b(n) = −n³ + 5n² + 5n + 5
+
+**Current Focus**  
+Seeded perturbation around the recurring cubic + self-collapse transforms (especially i^i).
+
+**Repo Usage**  
+New Grok conversations should start with:  
 > Resume from GitHub: https://github.com/sparcnova-dev/IIH_CMF
-
-Grok will instantly load the full state (matrix, topology map, latest results).
-
-See `IIH-Matrix.md` and `IIH-Topology-Map.md` for complete tables.
