@@ -18,7 +18,7 @@ The **recurring cubic family** is our strongest signal:
   - a_coef_range=[0, 2] (covers leading +1 + ±1)
   - b_coef_range=[-2, 0] (covers leading -1 + ±1)
   - Or a_coef_range=[-7, -4] and b_coef_range=[4, 7] when testing minimal covering ranges.
-- Never use broad ranges like [-7,2] or [-6,6] unless explicitly justified.
+- Never use broader ranges like [-7,2] or [-6,6] unless explicitly justified.
 
 ## Technical Rules for Scripts (Strict - must be followed exactly)
 - Always create .py files with **nano** (never cat heredoc).
