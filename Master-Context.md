@@ -2,7 +2,7 @@
 
 ## Core Goals
 - Validate Invariant Information Holography (IIH) under Logos Realism.
-- Use Conservative Matrix Fields (CMF) via Ramanujan Machine to find unifying matrices.
+- Use Conservative Matrix Fields (CMF) to find unifying matrices.
 - Focus on strong hierarchical emergence and self-collapse transforms (especially i^i).
 
 ## Key Discovery
@@ -12,22 +12,19 @@ The **recurring cubic family** is our strongest signal:
 
 ## Current Strategy: Seeded Perturbation
 - Treat the recurring cubic as a **seed/template**.
-- Search **only narrow neighborhoods** around its exact coefficients (e.g. ±1 or ±2).
-- Never use broad ranges unless explicitly justified.
-- Prefer `search_range=3` and coef ranges no wider than ±2 around the cubic values.
+- Search **only narrow neighborhoods** around its exact coefficients.
+- Use `search_range=3` and coef ranges **no wider than ±2** around the cubic values unless explicitly justified.
 
-## Technical Rules for Scripts (Strict - must be followed)
-- Always create .py files with **nano** (never cat heredoc - it corrupts).
-- Include clear step-by-step print statements ("Step 1: ...") and full try/except blocks with traceback.
+## Technical Rules for Scripts (Strict - must be followed exactly)
+- Always create .py files with **nano** (never cat heredoc - it corrupts easily).
+- Include clear step-by-step print statements and full try/except blocks with traceback.
 - Keep runtime **<8 hours on Mac** and **<6 hours on 8-core VMs**.
 - Use mpmath dps=50 or higher.
 - Background with nohup and monitor with tail -f and watch on .db files.
 - Name files descriptively (e.g. seeded_ii_higgs_137_mac.py).
 
 ## Current Priority
-1. Test whether the recurring cubic family still collapses in seeded triple-target (i^i + Higgs VEV + 137).
-2. Test i^i as single-target and double-target with Higgs/137.
-3. Update matrices and heat-map after every run.
+Test whether the recurring cubic family still collapses in seeded triple-target (i^i + Higgs VEV + 137) and seeded i^i tests.
 
 ## Repo Usage for New Conversations
 New Grok conversations must start with:
