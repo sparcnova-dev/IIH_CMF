@@ -1,24 +1,22 @@
 # Master Context - IIH + CMF Research (April 3, 2026)
 
-## Core Goals
-- Validate Invariant Information Holography (IIH) under Logos Realism.
-- Use Conservative Matrix Fields (CMF) to find unifying matrices.
-- Focus on strong hierarchical emergence and self-collapse transforms (especially i^i).
+## Long-Term Goals (Persistent Vision)
+1. Discover **exact CMF collapses** to physical fine-tuning constants (Higgs VEV, α⁻¹, Λ, Hoyle state, etc.).
+2. Demonstrate **strong hierarchical emergence** — show that a single low-degree polynomial seed (especially the recurring cubic family) can generate multiple invariants and fine-tuning constants.
+3. Prove that fine-tuning is **intrinsic** to the primordial relational structure at the Logos Breach (no multiverse or anthropic turtles required).
+4. Develop **predictive seeded perturbation methods** that can anticipate fertile regions in CMF space.
+5. Produce arXiv-quality papers presenting exact collapses, the seeded methodology, and support for IIH/Logos Realism.
+6. Eventually extend testing to higher IIH levels (life-supporting constants and consciousness-related structures).
 
 ## Key Discovery
 The **recurring cubic family** is our strongest signal:
-- a(n) = n³ − 6n² − 6n − 5   (exact coefficients: 1, -6, -6, -5)
-- b(n) = −n³ + 5n² + 5n + 5   (exact coefficients: -1, 5, 5, 5)
+- a(n) = n³ − 6n² − 6n − 5
+- b(n) = −n³ + 5n² + 5n + 5
 
 ## Current Strategy: Seeded Perturbation (Strict)
 - Treat the recurring cubic as a **seed/template**.
-- Search **only very narrow neighborhoods** around its **exact coefficients**.
+- Search **only very narrow neighborhoods** around its exact coefficients (±1 or ±2 max).
 - Use `search_range=3` and coef ranges **tightly centered** on the cubic values.
-- Example tight ranges for seeded scripts:
-  - a_coef_range=[0, 2] (covers leading +1 + ±1)
-  - b_coef_range=[-2, 0] (covers leading -1 + ±1)
-  - Or a_coef_range=[-7, -4] and b_coef_range=[4, 7] when testing minimal covering ranges.
-- Never use broader ranges like [-7,2] or [-6,6] unless explicitly justified.
 
 ## Technical Rules for Scripts (Strict - must be followed exactly)
 - Always create .py files with **nano** (never cat heredoc).
