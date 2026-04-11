@@ -1,45 +1,37 @@
-# Master Context - IIH + CMF Research (April 3, 2026)
+# Master Context - IIH + CMF Research (Logos Realism)
 
-## Long-Term Goals
-1. Discover exact CMF collapses to physical fine-tuning constants.
-2. Demonstrate strong hierarchical emergence from a single low-degree polynomial seed.
-3. Prove fine-tuning is intrinsic (no multiverse or anthropic turtles).
-4. Develop predictive seeded perturbation methods.
-5. Produce arXiv-quality papers.
+## Project Goals
+- Validate Invariant Information Holography (IIH) by discovering Conservative Matrix Fields (CMF) that collapse mathematical invariants (π, e, i, etc.) to physical fine-tuning constants (Higgs VEV, 1/α ≈ 137, etc.).
+- Embrace fine-tuning as intrinsic feature of reality (no turtles beneath Logos).
+- Find exact or near-exact CMF collapses that support hierarchical emergence from L1 invariants to L3 physical parameters.
 
 ## Key Discovery
-The recurring cubic family is our strongest signal:
-- a(n) = n³ − 6n² − 6n − 5
-- b(n) = −n³ + 5n² + 5n + 5
+Recurring cubic family (original strong signal):
+a(n) = n³ − 6n² − 6n − 5
+b(n) = −n³ + 5n² + 5n + 5
+Raw limit ≈ −5.83333, convergence 6.594×10^{-450}
 
-## Corrected Record (Final and Clear)
-- The run that produced the recurring cubic family and the 10k+ candidates was **actually a double-target run on Higgs VEV + 137**.
-- π was **not** passed as a target to the enumerator.
-- The “triple” label was inaccurate and misleading — it was only in the name and conversation, not in the actual code.
+## Technical Rules (Strict)
+- Use nano only for creating .py files.
+- search_range ≤ 3 for seeded runs.
+- Narrow coef ranges (±1 to ±2 max) around known cubics.
+- All jobs < 8 hours on Mac, < 6 hours on 8-core VMs.
+- Full verbose prints + try/except.
+- Background with nohup + tail -f monitoring.
+- Commit meaningful logs and update matrices/journal after every run.
 
-## Current Strategy: Seeded Perturbation (Strict)
-- Treat the recurring cubic as a seed/template.
-- Search only very narrow neighborhoods around its exact coefficients (±1 or ±2 max).
-- Use `search_range=3` and coef ranges tightly centered on the cubic values.
+## Research Journal
 
-## Technical Rules for Scripts (Strict)
-- Always create .py files with **nano** (never cat heredoc).
-- Include clear step-by-step print statements and full try/except blocks.
-- Keep runtime <8 hours on Mac and <6 hours on 8-core VMs.
-- Use mpmath dps=50 or higher.
-- Background with nohup and monitor with tail -f and watch on .db files.
+**April 3, 2026 – New cubic variant discovered in VM1 widening batch (π + Higgs target)**
+- Polynomial: a(n) = 2n³ − 3n² + 3n − 3
+- b(n) = −2n³ − n² + n + 8
+- Raw limit ≈ −5.09091 (−56/11)
+- Convergence rate = 1.0371 × 10^{-484} digits per term
+- Note: Distinct close variant of the recurring cubic family with extremely strong convergence. Appeared during widening search (±9 neighborhood). Physical scaling to Higgs VEV remains poor compared to the original recurring cubic.
 
-## Current Priority
-Test whether the recurring cubic family still collapses in seeded triple-target (i^i + Higgs VEV + 137) and seeded i^i tests. Use the narrowest seeded ranges possible.
+**April 2–3, 2026 (prior entries)**
+- Multiple light-seeded runs (single i^i, double π+Higgs, triple π+Higgs+137, exact cubic verification) returned 0 final high-precision matches.
+- Refined triple run produced multiple ultra-high-rate degree-4 families (rates up to 10^{-686}).
+- Recurring cubic remained strongest for physical relevance.
 
-## Repo Usage for New Conversations
-New Grok conversations must start with:
-> Resume from GitHub: https://github.com/sparcnova-dev/IIH_CMF
-and immediately read and fully internalize Master-Context.md before answering any question.
-
-### Research Journal (Last updated: April 3, 2026)
-- April 3: Multiple light-seeded runs returned 0 matches when ranges were too narrow.
-- April 2–3: Shifted to seeded perturbation strategy around the recurring cubic family.
-- March 31–April 2: Identified recurring cubic as strongest signal.
-- Ongoing: Focus on i^i self-collapse transform and verifying cubic in triple-target setting.
-
+Last updated: April 3, 2026
