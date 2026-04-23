@@ -1,0 +1,528 @@
+     87 original_higgs_137_double_replica.log:⎝a(n) = 3⋅n  - n  - 4⋅n + 4, b(n) = - 6⋅n  - 4⋅n  + 2⋅n - 4⎠
+     87 original_higgs_137_double_replica.log:⎝a(n) = 3⋅n  - 4⋅n  + 4, b(n) = - 6⋅n  + 2⋅n  - 4⎠
+    110 original_higgs_137_double_replica.log:⎝a(n) = 3⋅n  - 4⋅n  - 4⋅n - 3, b(n) = - 6⋅n  + 2⋅n  + 2⋅n + 4⎠
+     30 original_higgs_137_double_replica.log:⎝a(n) = 3⋅n  - 5⋅n  - 5⋅n - 4, b(n) = - 6⋅n  + 4⋅n  + 4⋅n + 6⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = 5⋅n  - 2⋅n  + 5⋅n, b(n) = - 5⋅n  - 3⋅n  - 5⋅n - 4⎠
+     42 original_higgs_137_double_replica.log:⎝a(n) = 5⋅n  - 3⋅n  - 3⋅n - 6, b(n) = - 5⋅n  - 2⋅n  - 2⋅n + 2⎠
+     60 original_higgs_137_double_replica.log:⎝a(n) = 4⋅n  - 2⋅n  + 2⋅n + 1, b(n) = - 4⋅n  - 6⋅n  - 2⋅n + 4⎠
+     44 original_higgs_137_double_replica.log:⎝a(n) = 4⋅n  - 2⋅n  - 4⋅n + 4, b(n) = - 4⋅n  - 6⋅n  + 4⋅n - 3⎠
+     49 original_higgs_137_double_replica.log:⎝a(n) = 4⋅n  - 3⋅n  - 3⋅n - 5, b(n) = - 4⋅n  - n  - n + 2⎠
+     63 original_higgs_137_double_replica.log:⎝a(n) = 3⋅n  + 2⋅n  + 3⋅n + 4, b(n) = - 3⋅n  - 5⋅n  - 3⋅n - 6⎠
+     81 original_higgs_137_double_replica.log:⎝a(n) = 3⋅n  - n  + 3, b(n) = - 3⋅n  - 5⋅n  + 4⋅n - 4⎠
+     63 original_higgs_137_double_replica.log:⎝a(n) = 3⋅n  - n  + n + 4, b(n) = - 3⋅n  - 2⋅n  + 2⋅n - 6⎠
+     34 original_higgs_137_double_replica.log:⎝a(n) = 3⋅n  - 4⋅n  - 4⋅n - 5, b(n) = - 3⋅n  + n  + n + 3⎠
+     87 original_higgs_137_double_replica.log:⎝a(n) = 3⋅n  - 4⋅n  - 3⋅n + 6, b(n) = - 3⋅n  + n  + 3⋅n - 2⎠
+     22 original_higgs_137_double_replica.log:⎝a(n) = 3⋅n  - 5⋅n  - 5⋅n - 6, b(n) = - 3⋅n  + 2⋅n  + 2⋅n + 4⎠
+    110 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  - 4⋅n  - 6⋅n + 2, b(n) = - 2⋅n  - 6⋅n  - 4⋅n - 1⎠
+    102 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  + 2⋅n  + n + 3, b(n) = - 2⋅n  - 6⋅n  - 3⋅n - 4⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  + 4⋅n  + n + 4, b(n) = - 2⋅n  - 6⋅n  - n - 4⎠
+     86 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  + 4⋅n  - 2⋅n - 2, b(n) = - 2⋅n  - 6⋅n  + 2⋅n + 5⎠
+     42 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  + 3⋅n  + 2⋅n + 5, b(n) = - 2⋅n  - 5⋅n  - 2⋅n - 6⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  + 3⋅n  - n + 4, b(n) = - 2⋅n  - 5⋅n  + 2⋅n - 4⎠
+     86 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  + 3⋅n  - 4⋅n - 2, b(n) = - 2⋅n  - 5⋅n  + 5⋅n + 5⎠
+     87 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  - 2⋅n  - 3⋅n + 6, b(n) = - 2⋅n  - 4⋅n  - 3⋅n - 2⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  + 2⋅n  - 3⋅n + 4, b(n) = - 2⋅n  - 4⋅n  + 5⋅n - 4⎠
+     97 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  - 3⋅n + 2, b(n) = - 2⋅n  - 4⋅n  + 5⋅n + 3⎠
+     42 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  + n  - n + 5, b(n) = - 2⋅n  - 3⋅n  + 3⋅n - 6⎠
+     28 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  - n  - 4⋅n + 4, b(n) = - 2⋅n  - 3⋅n  + 4⋅n - 3⎠
+     85 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  - 3⋅n  - 4⋅n, b(n) = - 2⋅n  - n  + 4⋅n + 1⎠
+     86 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  - 3⋅n  - 3⋅n - 3, b(n) = - 2⋅n  + n  + n + 2⎠
+     50 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  - 4⋅n  - 4⋅n - 4, b(n) = - 2⋅n  + 2⋅n  + 2⋅n + 3⎠
+     86 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  - 5⋅n  + 2⋅n - 3, b(n) = - 2⋅n  + 3⋅n  - 2⋅n + 2⎠
+     50 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  - 5⋅n  - n - 4, b(n) = - 2⋅n  + 3⋅n  + 3⎠
+     50 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  - 6⋅n  + 2⋅n - 4, b(n) = - 2⋅n  + 4⋅n  - 2⋅n + 3⎠
+     33 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  - 6⋅n  - 6⋅n - 6, b(n) = - 2⋅n  + 4⋅n  + 4⋅n + 5⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = n  - 3⋅n  - 4⋅n + 4, b(n) = - 2⋅n  + 4⋅n  + 6⋅n - 4⎠
+     30 original_higgs_137_double_replica.log:⎝a(n) = n  + 5⋅n  + 5⋅n + 6, b(n) = - n  - 6⋅n  - 6⋅n - 6⎠
+     24 original_higgs_137_double_replica.log:⎝a(n) = n  + 4⋅n  + n - 1, b(n) = - n  - 6⋅n  - 5⋅n + 6⎠
+     28 original_higgs_137_double_replica.log:⎝a(n) = n  + 5⋅n  - n - 3, b(n) = - n  - 6⋅n  + n + 5⎠
+    110 original_higgs_137_double_replica.log:⎝a(n) = n  - 4⋅n + 2, b(n) = - n  - 5⋅n  - 6⋅n - 1⎠
+     88 original_higgs_137_double_replica.log:⎝a(n) = n  + 3⋅n  + 2⋅n + 1, b(n) = - n  - 5⋅n  - 6⋅n + 2⎠
+     53 original_higgs_137_double_replica.log:⎝a(n) = n  + 4⋅n  + 4⋅n + 5, b(n) = - n  - 5⋅n  - 5⋅n - 5⎠
+     86 original_higgs_137_double_replica.log:⎝a(n) = n  + 4⋅n  + 2⋅n - 2, b(n) = - n  - 5⋅n  - 4⋅n + 5⎠
+     30 original_higgs_137_double_replica.log:⎝a(n) = n  + 4⋅n  + n + 6, b(n) = - n  - 5⋅n  - n - 6⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = n  + 3⋅n  + 3⋅n + 4, b(n) = - n  - 4⋅n  - 4⋅n - 4⎠
+     48 original_higgs_137_double_replica.log:⎝a(n) = n  + n  - n + 1, b(n) = - n  - 4⋅n  - 2⋅n - 3⎠
+     53 original_higgs_137_double_replica.log:⎝a(n) = n  + 3⋅n  + n + 5, b(n) = - n  - 4⋅n  - n - 5⎠
+    102 original_higgs_137_double_replica.log:⎝a(n) = n  + n  - 2⋅n + 3, b(n) = - n  - 4⋅n  - n + 4⎠
+     68 original_higgs_137_double_replica.log:⎝a(n) = n  - 2⋅n  - 5⋅n + 2, b(n) = - n  - 4⋅n  - n + 5⎠
+     86 original_higgs_137_double_replica.log:⎝a(n) = n  + 3⋅n  - 2, b(n) = - n  - 4⋅n  - n + 5⎠
+     30 original_higgs_137_double_replica.log:⎝a(n) = n  + 3⋅n  - 3⋅n + 6, b(n) = - n  - 4⋅n  + 4⋅n - 6⎠
+     41 original_higgs_137_double_replica.log:⎝a(n) = n  + 3⋅n  - 5⋅n - 2, b(n) = - n  - 4⋅n  + 6⋅n + 4⎠
+    110 original_higgs_137_double_replica.log:⎝a(n) = n  - 2⋅n  - 3⋅n + 2, b(n) = - n  - 3⋅n  - 2⋅n - 1⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = n  + 2⋅n  + n + 4, b(n) = - n  - 3⋅n  - n - 4⎠
+     67 original_higgs_137_double_replica.log:⎝a(n) = n  - 3⋅n  - 4⋅n + 4, b(n) = - n  - 3⋅n  + 3⎠
+     86 original_higgs_137_double_replica.log:⎝a(n) = n  + 2⋅n  - 2⋅n - 2, b(n) = - n  - 3⋅n  + 2⋅n + 5⎠
+     53 original_higgs_137_double_replica.log:⎝a(n) = n  + 2⋅n  - 2⋅n + 5, b(n) = - n  - 3⋅n  + 3⋅n - 5⎠
+     81 original_higgs_137_double_replica.log:⎝a(n) = n  + 2⋅n  - 4⋅n - 1, b(n) = - n  - 3⋅n  + 5⋅n + 3⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = n  + n  - n + 4, b(n) = - n  - 2⋅n  + 2⋅n - 4⎠
+     86 original_higgs_137_double_replica.log:⎝a(n) = n  + n  - 4⋅n - 2, b(n) = - n  - 2⋅n  + 5⋅n + 5⎠
+     89 original_higgs_137_double_replica.log:⎝a(n) = n  - 2⋅n  + 2, b(n) = - n  - n  + 3⋅n - 4⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = n  - 3⋅n + 4, b(n) = - n  - n  + 5⋅n - 4⎠
+     60 original_higgs_137_double_replica.log:⎝a(n) = n  - 5⋅n  + 4⋅n + 2, b(n) = - n  + n - 1⎠
+     50 original_higgs_137_double_replica.log:⎝a(n) = n  - n  - 4⋅n - 4, b(n) = - n  + 2⋅n + 3⎠
+     60 original_higgs_137_double_replica.log:⎝a(n) = n  - 6⋅n  + 5⋅n + 4, b(n) = - n  + 3⋅n + 1⎠
+     50 original_higgs_137_double_replica.log:⎝a(n) = n  - 2⋅n  - n - 4, b(n) = - n  + n  + 3⎠
+     33 original_higgs_137_double_replica.log:⎝a(n) = n  - 2⋅n  - 6⋅n - 6, b(n) = - n  + n  + 4⋅n + 5⎠
+     50 original_higgs_137_double_replica.log:⎝a(n) = n  - 3⋅n  + 2⋅n - 4, b(n) = - n  + 2⋅n  - 2⋅n + 3⎠
+     50 original_higgs_137_double_replica.log:⎝a(n) = n  - 3⋅n  - n + 5, b(n) = - n  + 2⋅n  + n - 3⎠
+     33 original_higgs_137_double_replica.log:⎝a(n) = n  - 3⋅n  - 2⋅n - 6, b(n) = - n  + 2⋅n  + n + 5⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = n  - 3⋅n  - 3⋅n - 2, b(n) = - n  + 2⋅n  + 2⋅n + 2⎠
+     42 original_higgs_137_double_replica.log:⎝a(n) = n  - 3⋅n  - 5⋅n + 6, b(n) = - n  + 2⋅n  + 4⋅n - 4⎠
+     50 original_higgs_137_double_replica.log:⎝a(n) = n  - 4⋅n  + 5⋅n - 4, b(n) = - n  + 3⋅n  - 4⋅n + 3⎠
+     49 original_higgs_137_double_replica.log:⎝a(n) = n  - 5⋅n  + 6⋅n + 5, b(n) = - n  + 3⋅n  - 2⋅n - 2⎠
+     33 original_higgs_137_double_replica.log:⎝a(n) = n  - 4⋅n  + 2⋅n - 6, b(n) = - n  + 3⋅n  - 2⋅n + 5⎠
+     50 original_higgs_137_double_replica.log:⎝a(n) = n  - 4⋅n  + 2⋅n + 5, b(n) = - n  + 3⋅n  - n - 3⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = n  - 4⋅n  + n - 2, b(n) = - n  + 3⋅n  - n + 2⎠
+     42 original_higgs_137_double_replica.log:⎝a(n) = n  - 4⋅n  - n + 6, b(n) = - n  + 3⋅n  + n - 4⎠
+     53 original_higgs_137_double_replica.log:⎝a(n) = n  - 4⋅n  - 4⋅n - 3, b(n) = - n  + 3⋅n  + 3⋅n + 3⎠
+     33 original_higgs_137_double_replica.log:⎝a(n) = n  - 5⋅n  + 6⋅n - 6, b(n) = - n  + 4⋅n  - 5⋅n + 5⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = n  - 5⋅n  + 5⋅n - 2, b(n) = - n  + 4⋅n  - 4⋅n + 2⎠
+     50 original_higgs_137_double_replica.log:⎝a(n) = n  - 5⋅n  + 5⋅n + 5, b(n) = - n  + 4⋅n  - 3⋅n - 3⎠
+     53 original_higgs_137_double_replica.log:⎝a(n) = n  - 5⋅n  + n - 3, b(n) = - n  + 4⋅n  - n + 3⎠
+     53 original_higgs_137_double_replica.log:⎝a(n) = n  - 6⋅n  + 6⋅n - 3, b(n) = - n  + 5⋅n  - 5⋅n + 3⎠
+     18 original_higgs_137_double_replica.log:⎝a(n) = n  - 6⋅n  - 6⋅n - 5, b(n) = - n  + 5⋅n  + 5⋅n + 5⎠
+     33 original_higgs_137_double_replica.log:⎝a(n) = n  - 6⋅n  + 6⋅n + 6, b(n) = n  - 5⋅n  + 4⋅n + 5⎠
+     53 original_higgs_137_double_replica.log:⎝a(n) = n  - 5⋅n  - n + 3, b(n) = n  - 4⋅n  - n + 3⎠
+     33 original_higgs_137_double_replica.log:⎝a(n) = n  - 5⋅n  + 2⋅n + 6, b(n) = n  - 4⋅n  + n + 5⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = n  - 5⋅n  + 3⋅n + 2, b(n) = n  - 4⋅n  + 2⋅n + 2⎠
+     42 original_higgs_137_double_replica.log:⎝a(n) = n  - 5⋅n  + 5⋅n - 6, b(n) = n  - 4⋅n  + 4⋅n - 4⎠
+     53 original_higgs_137_double_replica.log:⎝a(n) = n  - 4⋅n  - 6⋅n + 3, b(n) = n  - 3⋅n  - 5⋅n + 3⎠
+     33 original_higgs_137_double_replica.log:⎝a(n) = n  - 4⋅n  - 2⋅n + 6, b(n) = n  - 3⋅n  - 2⋅n + 5⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = n  - 4⋅n  - n + 2, b(n) = n  - 3⋅n  - n + 2⎠
+     42 original_higgs_137_double_replica.log:⎝a(n) = n  - 4⋅n  + n - 6, b(n) = n  - 3⋅n  + n - 4⎠
+     33 original_higgs_137_double_replica.log:⎝a(n) = n  - 3⋅n  - 6⋅n + 6, b(n) = n  - 2⋅n  - 5⋅n + 5⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = n  - 3⋅n  - 5⋅n + 2, b(n) = n  - 2⋅n  - 4⋅n + 2⎠
+     42 original_higgs_137_double_replica.log:⎝a(n) = n  - 3⋅n  - 3⋅n - 6, b(n) = n  - 2⋅n  - 2⋅n - 4⎠
+     50 original_higgs_137_double_replica.log:⎝a(n) = n  - 2⋅n  - 5⋅n + 4, b(n) = n  - n  - 4⋅n + 3⎠
+     60 original_higgs_137_double_replica.log:⎝a(n) = n  - 5⋅n  + 4⋅n - 2, b(n) = n  - n - 1⎠
+     86 original_higgs_137_double_replica.log:⎝a(n) = n  - 2⋅n + 2, b(n) = n  + n  - 4⋅n + 5⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = n  + n  - 3⋅n - 4, b(n) = n  + 2⋅n  - 4⋅n - 4⎠
+     86 original_higgs_137_double_replica.log:⎝a(n) = n  + n  + 2, b(n) = n  + 2⋅n  - n + 5⎠
+     53 original_higgs_137_double_replica.log:⎝a(n) = n  + 2⋅n  - 4⋅n - 5, b(n) = n  + 3⋅n  - 5⋅n - 5⎠
+     81 original_higgs_137_double_replica.log:⎝a(n) = n  + 2⋅n  - 2⋅n + 1, b(n) = n  + 3⋅n  - 3⋅n + 3⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = n  + 2⋅n  - n - 4, b(n) = n  + 3⋅n  - n - 4⎠
+     86 original_higgs_137_double_replica.log:⎝a(n) = n  + 2⋅n  + 2⋅n + 2, b(n) = n  + 3⋅n  + 2⋅n + 5⎠
+     30 original_higgs_137_double_replica.log:⎝a(n) = n  + 3⋅n  - 5⋅n - 6, b(n) = n  + 4⋅n  - 6⋅n - 6⎠
+     41 original_higgs_137_double_replica.log:⎝a(n) = n  + 3⋅n  - 3⋅n + 2, b(n) = n  + 4⋅n  - 4⋅n + 4⎠
+     53 original_higgs_137_double_replica.log:⎝a(n) = n  + 3⋅n  - n - 5, b(n) = n  + 4⋅n  - n - 5⎠
+     35 original_higgs_137_double_replica.log:⎝a(n) = n  + 2⋅n  - 4, b(n) = n  + 4⋅n  + n - 5⎠
+     81 original_higgs_137_double_replica.log:⎝a(n) = n  + 3⋅n  + n + 1, b(n) = n  + 4⋅n  + n + 3⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = n  + 3⋅n  + n - 4, b(n) = n  + 4⋅n  + 2⋅n - 4⎠
+     68 original_higgs_137_double_replica.log:⎝a(n) = n  - n  - 2⋅n - 2, b(n) = n  + 4⋅n  + 3⋅n - 1⎠
+     86 original_higgs_137_double_replica.log:⎝a(n) = n  + 3⋅n  + 4⋅n + 2, b(n) = n  + 4⋅n  + 5⋅n + 5⎠
+     28 original_higgs_137_double_replica.log:⎝a(n) = n  + 4⋅n  - 4⋅n + 3, b(n) = n  + 5⋅n  - 5⋅n + 5⎠
+      8 original_higgs_137_double_replica.log:⎝a(n) = n  + 2⋅n  - 5⋅n - 4, b(n) = n  + 5⋅n  - 2⋅n - 3⎠
+     30 original_higgs_137_double_replica.log:⎝a(n) = n  + 4⋅n  - n - 6, b(n) = n  + 5⋅n  - n - 6⎠
+     41 original_higgs_137_double_replica.log:⎝a(n) = n  + 4⋅n  + n + 2, b(n) = n  + 5⋅n  + n + 4⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = n  + 4⋅n  + 3⋅n - 4, b(n) = n  + 5⋅n  + 5⋅n - 4⎠
+     81 original_higgs_137_double_replica.log:⎝a(n) = n  + 4⋅n  + 4⋅n + 1, b(n) = n  + 5⋅n  + 5⋅n + 3⎠
+    110 original_higgs_137_double_replica.log:⎝a(n) = n  - 4⋅n - 2, b(n) = n  + 5⋅n  + 6⋅n - 1⎠
+     16 original_higgs_137_double_replica.log:⎝a(n) = n  + 5⋅n  - 5⋅n + 4, b(n) = n  + 6⋅n  - 6⋅n + 6⎠
+     28 original_higgs_137_double_replica.log:⎝a(n) = n  + 5⋅n  + n + 3, b(n) = n  + 6⋅n  + n + 5⎠
+     41 original_higgs_137_double_replica.log:⎝a(n) = n  + 5⋅n  + 5⋅n + 2, b(n) = n  + 6⋅n  + 6⋅n + 4⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = n  - 4⋅n  - 4, b(n) = 2⋅n  - 6⋅n  - 4⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = n  - 3⋅n  - 4⋅n - 4, b(n) = 2⋅n  - 4⋅n  - 6⋅n - 4⎠
+     24 original_higgs_137_double_replica.log:⎝a(n) = n  - 5⋅n  + 2⋅n + 5, b(n) = 2⋅n  - 4⋅n  - 2⋅n + 2⎠
+     50 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  - 6⋅n  - 2⋅n + 4, b(n) = 2⋅n  - 4⋅n  - 2⋅n + 3⎠
+     50 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  - 5⋅n  - 5⋅n + 4, b(n) = 2⋅n  - 3⋅n  - 4⋅n + 3⎠
+     86 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  - 5⋅n  - 2⋅n + 3, b(n) = 2⋅n  - 3⋅n  - 2⋅n + 2⎠
+     49 original_higgs_137_double_replica.log:⎝a(n) = n  - 3⋅n  - n + 4, b(n) = 2⋅n  - 2⋅n  - 2⋅n + 4⎠
+     50 original_higgs_137_double_replica.log:⎝a(n) = n  - 3⋅n  - n - 5, b(n) = 2⋅n  - 2⋅n  - 4⎠
+     85 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  - 5⋅n  - n, b(n) = 2⋅n  - n  - 5⋅n + 1⎠
+     30 original_higgs_137_double_replica.log:⎝a(n) = n  - 5⋅n  + 4⋅n - 4, b(n) = 2⋅n  - 2⋅n - 4⎠
+     61 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  - 3⋅n  + 4⋅n, b(n) = 2⋅n  + n  + 4⋅n + 1⎠
+     63 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  + n  - n + 1, b(n) = 2⋅n  + 3⋅n  - 3⋅n + 4⎠
+     27 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  - n  + 4⋅n - 4, b(n) = 2⋅n  + 3⋅n  + 4⋅n - 3⎠
+     86 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  + 2⋅n  - 2⋅n + 2, b(n) = 2⋅n  + 4⋅n  - 4⋅n + 5⎠
+     22 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  + 3⋅n  - 3⋅n + 3, b(n) = 2⋅n  + 5⋅n  - 5⋅n + 6⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  + 3⋅n  - 3⋅n - 4, b(n) = 2⋅n  + 5⋅n  - 4⋅n - 4⎠
+     42 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  + 3⋅n  - 2⋅n - 5, b(n) = 2⋅n  + 5⋅n  - 2⋅n - 6⎠
+     86 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  + 3⋅n  + 2, b(n) = 2⋅n  + 5⋅n  - n + 5⎠
+     63 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  + 3⋅n  + 2⋅n + 1, b(n) = 2⋅n  + 5⋅n  + 2⋅n + 4⎠
+     81 original_higgs_137_double_replica.log:⎝a(n) = n  + n  - 4, b(n) = 2⋅n  + 6⋅n  - 2⋅n - 2⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  + 4⋅n  - n - 4, b(n) = 2⋅n  + 6⋅n  - n - 4⎠
+     86 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  + 4⋅n  + 2⋅n + 2, b(n) = 2⋅n  + 6⋅n  + 2⋅n + 5⎠
+     89 original_higgs_137_double_replica.log:⎝a(n) = 3⋅n  - n  + n, b(n) = 3⋅n  + 2⋅n  - 2⋅n + 4⎠
+     30 original_higgs_137_double_replica.log:⎝a(n) = 3⋅n  + n  - n + 2, b(n) = 3⋅n  + 4⋅n  - 4⋅n + 6⎠
+     63 original_higgs_137_double_replica.log:⎝a(n) = 3⋅n  + 2⋅n  - 3⋅n - 4, b(n) = 3⋅n  + 5⋅n  - 3⋅n - 6⎠
+     89 original_higgs_137_double_replica.log:⎝a(n) = 3⋅n  + 2⋅n  + 3⋅n, b(n) = 3⋅n  + 5⋅n  + 3⋅n + 4⎠
+    110 original_higgs_137_double_replica.log:⎝a(n) = 3⋅n  + n - 3, b(n) = 3⋅n  + 6⋅n  + n - 2⎠
+     86 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  - 5⋅n  - 4, b(n) = 4⋅n  - 6⋅n  - 4⎠
+     86 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  - 3⋅n  - 5⋅n - 4, b(n) = 4⋅n  - 2⋅n  - 6⋅n - 4⎠
+     97 original_higgs_137_double_replica.log:⎝a(n) = 4⋅n  - 6⋅n  + 4⋅n, b(n) = 4⋅n  + 2⋅n  + 4⋅n + 1⎠
+     41 original_higgs_137_double_replica.log:⎝a(n) = 4⋅n  - n  + n + 1, b(n) = 4⋅n  + 3⋅n  - 3⋅n + 6⎠
+     85 original_higgs_137_double_replica.log:⎝a(n) = 2⋅n  + n  - n - 1, b(n) = 4⋅n  + 6⋅n  - 6⋅n + 6⎠
+     57 original_higgs_137_double_replica.log:⎝a(n) = 4⋅n  - 2⋅n  + 4⋅n - 4, b(n) = 4⋅n  + 6⋅n  + 4⋅n - 3⎠
+     97 original_higgs_137_double_replica.log:⎝a(n) = n  - 2⋅n  - 3⋅n - 4, b(n) = 5⋅n  - 5⋅n - 5⎠
+     60 original_higgs_137_double_replica.log:⎝a(n) = 5⋅n  - 3⋅n  + 3⋅n, b(n) = 5⋅n  + 2⋅n  - 2⋅n + 6⎠
+     80 original_higgs_137_double_replica.log:⎝a(n) = 5⋅n  - 2⋅n  - 5⋅n, b(n) = 5⋅n  + 3⋅n  - 5⋅n - 4⎠
+     88 original_higgs_137_double_replica.log:⎝a(n) = 6⋅n  - 5⋅n  + 5⋅n - 1, b(n) = 6⋅n  + n  - n + 6⎠
+    197 refined_triple_top.log:⎝a(n) = 5⋅n  - 2⋅n  + 5⋅n, b(n) = - 5⋅n  - 3⋅n  - 5⋅n - 4⎠
+    126 refined_triple_top.log:⎝a(n) = 4⋅n  - 4⋅n  + 5⋅n  - 4⋅n + 4, b(n) = - 4⋅n  - 4⋅n  - n  + 4⋅n - 3⎠
+    107 refined_triple_top.log:⎝a(n) = 4⋅n  - 3⋅n  - 3⋅n  - 3⋅n - 5, b(n) = - 4⋅n  - n  - n  - n + 2⎠
+    181 refined_triple_top.log:⎝a(n) = 3⋅n  - n  - 2⋅n  - 3⋅n, b(n) = - 3⋅n  - 2⋅n  + 5⋅n  + 3⋅n + 4⎠
+     77 refined_triple_top.log:⎝a(n) = 3⋅n  - 4⋅n  - 4⋅n  - 4⋅n - 5, b(n) = - 3⋅n  + n  + n  + n + 3⎠
+     76 refined_triple_top.log:⎝a(n) = 2⋅n  - n  - 2⋅n  + 2⋅n + 2, b(n) = - 2⋅n  - 5⋅n  - n  + 4⋅n + 5⎠
+    147 refined_triple_top.log:⎝a(n) = 2⋅n  + 3⋅n  + 2⋅n - 2, b(n) = - 2⋅n  - 5⋅n  + n  - 4⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = 2⋅n  + 3⋅n  - n  + 3⋅n + 4, b(n) = - 2⋅n  - 5⋅n  + 2⋅n  - 4⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = 2⋅n  + 3⋅n  - n  - 2, b(n) = - 2⋅n  - 5⋅n  + 2⋅n  - n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = 2⋅n  + 3⋅n  - 2⋅n  + n + 4, b(n) = - 2⋅n  - 5⋅n  + 3⋅n  - n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = 2⋅n  + 3⋅n  - 2⋅n  - 2⋅n - 2, b(n) = - 2⋅n  - 5⋅n  + 3⋅n  + 2⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = 2⋅n  + 3⋅n  - 3⋅n  - n + 4, b(n) = - 2⋅n  - 5⋅n  + 4⋅n  + 2⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = 2⋅n  + 3⋅n  - 3⋅n  - 4⋅n - 2, b(n) = - 2⋅n  - 5⋅n  + 4⋅n  + 5⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = 2⋅n  + 3⋅n  - 4⋅n  - 3⋅n + 4, b(n) = - 2⋅n  - 5⋅n  + 5⋅n  + 5⋅n - 4⎠
+     72 refined_triple_top.log:⎝a(n) = 2⋅n  - 4⋅n  + 3⋅n  + 3⋅n + 5, b(n) = - 2⋅n  - 4⋅n  - 3⋅n  - 3⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = 2⋅n  + 2⋅n  - 2⋅n  + 2⋅n - 2, b(n) = - 2⋅n  - 4⋅n  + 4⋅n  - 4⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = 2⋅n  + 2⋅n  - 3⋅n  + 3⋅n + 4, b(n) = - 2⋅n  - 4⋅n  + 5⋅n  - 4⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = 2⋅n  + 2⋅n  - 3⋅n  - 2, b(n) = - 2⋅n  - 4⋅n  + 5⋅n  - n + 5⎠
+    131 refined_triple_top.log:⎝a(n) = 2⋅n  + n  - 3⋅n  - 2⋅n - 1, b(n) = - 2⋅n  - 3⋅n  + 5⋅n  + 2⋅n + 4⎠
+    147 refined_triple_top.log:⎝a(n) = 2⋅n  - 3⋅n  - 3⋅n  - 3⋅n - 3, b(n) = - 2⋅n  + n  + n  + n + 2⎠
+    147 refined_triple_top.log:⎝a(n) = 2⋅n  - 3⋅n  - 5⋅n  + 2⋅n - 3, b(n) = - 2⋅n  + n  + 3⋅n  - 2⋅n + 2⎠
+    143 refined_triple_top.log:⎝a(n) = 2⋅n  - 4⋅n  - 4⋅n  - 4⋅n - 4, b(n) = - 2⋅n  + 2⋅n  + 2⋅n  + 2⋅n + 3⎠
+    143 refined_triple_top.log:⎝a(n) = 2⋅n  - 4⋅n  - 5⋅n  - n - 4, b(n) = - 2⋅n  + 2⋅n  + 3⋅n  + 3⎠
+    147 refined_triple_top.log:⎝a(n) = 2⋅n  - 5⋅n  + 2⋅n  - 3⋅n - 3, b(n) = - 2⋅n  + 3⋅n  - 2⋅n  + n + 2⎠
+    147 refined_triple_top.log:⎝a(n) = 2⋅n  - 5⋅n  + 2⋅n - 3, b(n) = - 2⋅n  + 3⋅n  - 2⋅n + 2⎠
+    143 refined_triple_top.log:⎝a(n) = 2⋅n  - 5⋅n  - n  - 4⋅n - 4, b(n) = - 2⋅n  + 3⋅n  + 2⋅n + 3⎠
+    143 refined_triple_top.log:⎝a(n) = 2⋅n  - 5⋅n  - 2⋅n  - n - 4, b(n) = - 2⋅n  + 3⋅n  + n  + 3⎠
+    143 refined_triple_top.log:⎝a(n) = 2⋅n  - 5⋅n  - 3⋅n  + 2⋅n - 4, b(n) = - 2⋅n  + 3⋅n  + 2⋅n  - 2⋅n + 3⎠
+    143 refined_triple_top.log:⎝a(n) = 2⋅n  - 5⋅n  - 4⋅n  + 5⋅n - 4, b(n) = - 2⋅n  + 3⋅n  + 3⋅n  - 4⋅n + 3⎠
+    143 refined_triple_top.log:⎝a(n) = 2⋅n  - 5⋅n  - 5⋅n  + 5⋅n + 5, b(n) = - 2⋅n  + 3⋅n  + 4⋅n  - 3⋅n - 3⎠
+    102 refined_triple_top.log:⎝a(n) = n  + 4⋅n  + 4⋅n  + 4⋅n + 5, b(n) = - n  - 5⋅n  - 5⋅n  - 5⋅n - 5⎠
+     75 refined_triple_top.log:⎝a(n) = n  + 3⋅n  + 2⋅n  + 4, b(n) = - n  - 5⋅n  - 5⋅n  + n - 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + 4⋅n  + 3⋅n  - n + 4, b(n) = - n  - 5⋅n  - 5⋅n  + 2⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + 4⋅n  + 3⋅n  - 4⋅n - 2, b(n) = - n  - 5⋅n  - 5⋅n  + 5⋅n + 5⎠
+    102 refined_triple_top.log:⎝a(n) = n  + 4⋅n  + 3⋅n  + n + 5, b(n) = - n  - 5⋅n  - 4⋅n  - n - 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + 4⋅n  + 2⋅n  - 3⋅n + 4, b(n) = - n  - 5⋅n  - 4⋅n  + 5⋅n - 4⎠
+    102 refined_triple_top.log:⎝a(n) = n  + 4⋅n  + 2⋅n  - 2⋅n + 5, b(n) = - n  - 5⋅n  - 3⋅n  + 3⋅n - 5⎠
+     63 refined_triple_top.log:⎝a(n) = n  + 4⋅n  - 4⋅n  + 4⋅n - 3, b(n) = - n  - 5⋅n  + 5⋅n  - 5⋅n + 5⎠
+    147 refined_triple_top.log:⎝a(n) = n  + 3⋅n  + 4⋅n  + 2⋅n - 2, b(n) = - n  - 4⋅n  - 5⋅n  - 4⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + 3⋅n  + 3⋅n  + 3⋅n + 4, b(n) = - n  - 4⋅n  - 4⋅n  - 4⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + 3⋅n  + 3⋅n  - 2, b(n) = - n  - 4⋅n  - 4⋅n  - n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + 3⋅n  + 2⋅n  + n + 4, b(n) = - n  - 4⋅n  - 3⋅n  - n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + 3⋅n  + 2⋅n  - 2⋅n - 2, b(n) = - n  - 4⋅n  - 3⋅n  + 2⋅n + 5⎠
+     98 refined_triple_top.log:⎝a(n) = n  + 2⋅n  + n  - n + 4, b(n) = - n  - 4⋅n  - 3⋅n  + 3⋅n - 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + 3⋅n  + n  - n + 4, b(n) = - n  - 4⋅n  - 2⋅n  + 2⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + 3⋅n  + n  - 4⋅n - 2, b(n) = - n  - 4⋅n  - 2⋅n  + 5⋅n + 5⎠
+    102 refined_triple_top.log:⎝a(n) = n  + 3⋅n  + n  + 4⋅n + 5, b(n) = - n  - 4⋅n  - n  - 5⋅n - 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + 3⋅n  - 3⋅n + 4, b(n) = - n  - 4⋅n  - n  + 5⋅n - 4⎠
+    102 refined_triple_top.log:⎝a(n) = n  + 3⋅n  + n + 5, b(n) = - n  - 4⋅n  - n - 5⎠
+    102 refined_triple_top.log:⎝a(n) = n  + 3⋅n  - n  - 2⋅n + 5, b(n) = - n  - 4⋅n  + n  + 3⋅n - 5⎠
+    153 refined_triple_top.log:⎝a(n) = n  + 3⋅n  - n  - 4⋅n - 1, b(n) = - n  - 4⋅n  + n  + 5⋅n + 3⎠
+     96 refined_triple_top.log:⎝a(n) = n  + 3⋅n  - 4⋅n  - n - 2, b(n) = - n  - 4⋅n  + 5⋅n  + n + 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + 2⋅n  + 2⋅n  + 2⋅n - 2, b(n) = - n  - 3⋅n  - 2⋅n  - 4⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + 2⋅n  + n  + 3⋅n + 4, b(n) = - n  - 3⋅n  - n  - 4⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + 2⋅n  + n  - 2, b(n) = - n  - 3⋅n  - n  - n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + 2⋅n  + n + 4, b(n) = - n  - 3⋅n  - n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + 2⋅n  - 2⋅n - 2, b(n) = - n  - 3⋅n  + 2⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + 2⋅n  - n  - n + 4, b(n) = - n  - 3⋅n  + n  + 2⋅n - 4⎠
+    118 refined_triple_top.log:⎝a(n) = n  - 3⋅n  - n  + 3⋅n + 2, b(n) = - n  - 3⋅n  + n  + 3⋅n - 1⎠
+    147 refined_triple_top.log:⎝a(n) = n  + 2⋅n  - n  - 4⋅n - 2, b(n) = - n  - 3⋅n  + n  + 5⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + 2⋅n  - 2⋅n  - 3⋅n + 4, b(n) = - n  - 3⋅n  + 2⋅n  + 5⋅n - 4⎠
+    102 refined_triple_top.log:⎝a(n) = n  + 2⋅n  - 2⋅n  + 4⋅n + 5, b(n) = - n  - 3⋅n  + 3⋅n  - 5⋅n - 5⎠
+    102 refined_triple_top.log:⎝a(n) = n  + 2⋅n  - 3⋅n  + n + 5, b(n) = - n  - 3⋅n  + 4⋅n  - n - 5⎠
+    153 refined_triple_top.log:⎝a(n) = n  + 2⋅n  - 3⋅n  - n - 1, b(n) = - n  - 3⋅n  + 4⋅n  + n + 3⎠
+    102 refined_triple_top.log:⎝a(n) = n  + 2⋅n  - 4⋅n  - 2⋅n + 5, b(n) = - n  - 3⋅n  + 5⋅n  + 3⋅n - 5⎠
+    153 refined_triple_top.log:⎝a(n) = n  + 2⋅n  - 4⋅n  - 4⋅n - 1, b(n) = - n  - 3⋅n  + 5⋅n  + 5⋅n + 3⎠
+    147 refined_triple_top.log:⎝a(n) = n  + n  + 2⋅n - 2, b(n) = - n  - 2⋅n  + n  - 4⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + n  - n  + 3⋅n + 4, b(n) = - n  - 2⋅n  + 2⋅n  - 4⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + n  - n  - 2, b(n) = - n  - 2⋅n  + 2⋅n  - n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + n  - 2⋅n  + n + 4, b(n) = - n  - 2⋅n  + 3⋅n  - n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + n  - 2⋅n  - 2⋅n - 2, b(n) = - n  - 2⋅n  + 3⋅n  + 2⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + n  - 3⋅n  - n + 4, b(n) = - n  - 2⋅n  + 4⋅n  + 2⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + n  - 3⋅n  - 4⋅n - 2, b(n) = - n  - 2⋅n  + 4⋅n  + 5⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + n  - 4⋅n  - 3⋅n + 4, b(n) = - n  - 2⋅n  + 5⋅n  + 5⋅n - 4⎠
+    112 refined_triple_top.log:⎝a(n) = n  - 4⋅n  + 5⋅n  - 4⋅n, b(n) = - n  - n  + 4⋅n + 1⎠
+    147 refined_triple_top.log:⎝a(n) = n  - 2⋅n  + 2⋅n - 2, b(n) = - n  - n  + 4⋅n  - 4⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 3⋅n  + 3⋅n + 4, b(n) = - n  - n  + 5⋅n  - 4⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  - 3⋅n  - 2, b(n) = - n  - n  + 5⋅n  - n + 5⎠
+    143 refined_triple_top.log:⎝a(n) = n  - n  - 4⋅n  - 4⋅n - 4, b(n) = - n  + 2⋅n  + 2⋅n + 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - n  - 5⋅n  - n - 4, b(n) = - n  + 3⋅n  + 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 2⋅n  - n  - 4⋅n - 4, b(n) = - n  + n  + 2⋅n + 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 2⋅n  - 2⋅n  - n - 4, b(n) = - n  + n  + n  + 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 2⋅n  - 3⋅n  + 2⋅n - 4, b(n) = - n  + n  + 2⋅n  - 2⋅n + 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 2⋅n  - 4⋅n  + 5⋅n - 4, b(n) = - n  + n  + 3⋅n  - 4⋅n + 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 2⋅n  - 4⋅n  + 2⋅n + 5, b(n) = - n  + n  + 3⋅n  - n - 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 2⋅n  - 5⋅n  + 5⋅n + 5, b(n) = - n  + n  + 4⋅n  - 3⋅n - 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 3⋅n  + 2⋅n  - 4⋅n - 4, b(n) = - n  + 2⋅n  - 2⋅n  + 2⋅n + 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 3⋅n  + n  - n - 4, b(n) = - n  + 2⋅n  - n  + 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 3⋅n  + 2⋅n - 4, b(n) = - n  + 2⋅n  - 2⋅n + 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 3⋅n  - n + 5, b(n) = - n  + 2⋅n  + n - 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 3⋅n  - n  + 5⋅n - 4, b(n) = - n  + 2⋅n  + n  - 4⋅n + 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 3⋅n  - n  + 2⋅n + 5, b(n) = - n  + 2⋅n  + n  - n - 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 3⋅n  - 2⋅n  + 5⋅n + 5, b(n) = - n  + 2⋅n  + 2⋅n  - 3⋅n - 3⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 3⋅n  - 3⋅n  - 3⋅n - 2, b(n) = - n  + 2⋅n  + 2⋅n  + 2⋅n + 2⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 3⋅n  - 4⋅n  + n - 2, b(n) = - n  + 2⋅n  + 3⋅n  - n + 2⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 3⋅n  - 5⋅n  + 5⋅n - 2, b(n) = - n  + 2⋅n  + 4⋅n  - 4⋅n + 2⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 4⋅n  + 5⋅n  - 4⋅n - 4, b(n) = - n  + 3⋅n  - 4⋅n  + 2⋅n + 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 4⋅n  + 4⋅n  - n - 4, b(n) = - n  + 3⋅n  - 3⋅n  + 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 4⋅n  + 4⋅n  - 4⋅n + 5, b(n) = - n  + 3⋅n  - 3⋅n  + 3⋅n - 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 4⋅n  + 3⋅n  + 2⋅n - 4, b(n) = - n  + 3⋅n  - 2⋅n  - 2⋅n + 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 4⋅n  + 3⋅n  - n + 5, b(n) = - n  + 3⋅n  - 2⋅n  + n - 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 4⋅n  + 2⋅n  + 2⋅n + 5, b(n) = - n  + 3⋅n  - n  - n - 3⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 4⋅n  + n  - 3⋅n - 2, b(n) = - n  + 3⋅n  - n  + 2⋅n + 2⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 4⋅n  + n  + 5⋅n + 5, b(n) = - n  + 3⋅n  - 3⋅n - 3⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 4⋅n  + n - 2, b(n) = - n  + 3⋅n  - n + 2⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 4⋅n  - n  + 5⋅n - 2, b(n) = - n  + 3⋅n  + n  - 4⋅n + 2⎠
+    102 refined_triple_top.log:⎝a(n) = n  - 4⋅n  - 4⋅n  - 4⋅n - 3, b(n) = - n  + 3⋅n  + 3⋅n  + 3⋅n + 3⎠
+    102 refined_triple_top.log:⎝a(n) = n  - 4⋅n  - 5⋅n  + n - 3, b(n) = - n  + 3⋅n  + 4⋅n  - n + 3⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 5⋅n  + 5⋅n  - 3⋅n - 2, b(n) = - n  + 4⋅n  - 4⋅n  + 2⋅n + 2⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 5⋅n  + 5⋅n  + 2⋅n + 5, b(n) = - n  + 4⋅n  - 3⋅n  - n - 3⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 5⋅n  + 4⋅n  + n - 2, b(n) = - n  + 4⋅n  - 3⋅n  - n + 2⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 5⋅n  + 3⋅n  + 5⋅n - 2, b(n) = - n  + 4⋅n  - 2⋅n  - 4⋅n + 2⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 5⋅n  + 4⋅n  + 5⋅n + 5, b(n) = - n  + 4⋅n  - 2⋅n  - 3⋅n - 3⎠
+    102 refined_triple_top.log:⎝a(n) = n  - 5⋅n  + n  - 4⋅n - 3, b(n) = - n  + 4⋅n  - n  + 3⋅n + 3⎠
+    102 refined_triple_top.log:⎝a(n) = n  - 5⋅n  + n - 3, b(n) = - n  + 4⋅n  - n + 3⎠
+    102 refined_triple_top.log:⎝a(n) = n  - 5⋅n  - n + 3, b(n) = n  - 4⋅n  - n + 3⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 5⋅n  + 3⋅n  + 3⋅n + 2, b(n) = n  - 4⋅n  + 2⋅n  + 2⋅n + 2⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 5⋅n  + 4⋅n  - n + 2, b(n) = n  - 4⋅n  + 3⋅n  - n + 2⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 5⋅n  + 5⋅n  - 5⋅n + 2, b(n) = n  - 4⋅n  + 4⋅n  - 4⋅n + 2⎠
+    102 refined_triple_top.log:⎝a(n) = n  - 4⋅n  - 5⋅n  - n + 3, b(n) = n  - 3⋅n  - 4⋅n  - n + 3⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 4⋅n  - n  + 3⋅n + 2, b(n) = n  - 3⋅n  - n  + 2⋅n + 2⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 4⋅n  - n + 2, b(n) = n  - 3⋅n  - n + 2⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 4⋅n  + n  - 5⋅n + 2, b(n) = n  - 3⋅n  + n  - 4⋅n + 2⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 3⋅n  - 5⋅n  + 3⋅n + 2, b(n) = n  - 2⋅n  - 4⋅n  + 2⋅n + 2⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 3⋅n  - 4⋅n  - n + 2, b(n) = n  - 2⋅n  - 3⋅n  - n + 2⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 3⋅n  - 3⋅n  - 5⋅n + 2, b(n) = n  - 2⋅n  - 2⋅n  - 4⋅n + 2⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 3⋅n  + n  - 5⋅n + 4, b(n) = n  - 2⋅n  + n  - 4⋅n + 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 2⋅n  - 3⋅n  - 2⋅n + 4, b(n) = n  - n  - 2⋅n  - 2⋅n + 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 2⋅n  - 2⋅n  - 5⋅n + 4, b(n) = n  - n  - n  - 4⋅n + 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - n  - 5⋅n  - 5⋅n + 4, b(n) = n  - 3⋅n  - 4⋅n + 3⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 3⋅n  + n - 4, b(n) = n  + n  - 5⋅n  + 2⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  - 3⋅n  + 4⋅n + 2, b(n) = n  + n  - 5⋅n  + 5⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  - 2⋅n  + 3⋅n - 4, b(n) = n  + n  - 4⋅n  + 5⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + n  - 4⋅n  - 2⋅n + 2, b(n) = n  + 2⋅n  - 5⋅n  - 4⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + n  - 3⋅n  - 3⋅n - 4, b(n) = n  + 2⋅n  - 4⋅n  - 4⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + n  - 3⋅n  + 2, b(n) = n  + 2⋅n  - 4⋅n  - n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + n  - 2⋅n  - n - 4, b(n) = n  + 2⋅n  - 3⋅n  - n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + n  - 2⋅n  + 2⋅n + 2, b(n) = n  + 2⋅n  - 3⋅n  + 2⋅n + 5⎠
+    181 refined_triple_top.log:⎝a(n) = n  - n  - 2⋅n  - 2⋅n - 2, b(n) = n  + 2⋅n  - 2⋅n  - 2⋅n - 4⎠
+    197 refined_triple_top.log:⎝a(n) = n  + n  - n  + n - 4, b(n) = n  + 2⋅n  - 2⋅n  + 2⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + n  - n  + 4⋅n + 2, b(n) = n  + 2⋅n  - 2⋅n  + 5⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + n  + 3⋅n - 4, b(n) = n  + 2⋅n  - n  + 5⋅n - 4⎠
+    102 refined_triple_top.log:⎝a(n) = n  + 2⋅n  - 4⋅n  - 4⋅n - 5, b(n) = n  + 3⋅n  - 5⋅n  - 5⋅n - 5⎠
+    102 refined_triple_top.log:⎝a(n) = n  + 2⋅n  - 3⋅n  - n - 5, b(n) = n  + 3⋅n  - 4⋅n  - n - 5⎠
+    153 refined_triple_top.log:⎝a(n) = n  + 2⋅n  - 3⋅n  + n + 1, b(n) = n  + 3⋅n  - 4⋅n  + n + 3⎠
+    102 refined_triple_top.log:⎝a(n) = n  + 2⋅n  - 2⋅n  + 2⋅n - 5, b(n) = n  + 3⋅n  - 3⋅n  + 3⋅n - 5⎠
+    153 refined_triple_top.log:⎝a(n) = n  + 2⋅n  - 2⋅n  + 4⋅n + 1, b(n) = n  + 3⋅n  - 3⋅n  + 5⋅n + 3⎠
+    147 refined_triple_top.log:⎝a(n) = n  + 2⋅n  - 2⋅n  - 2⋅n + 2, b(n) = n  + 3⋅n  - 2⋅n  - 4⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + 2⋅n  - n  - 3⋅n - 4, b(n) = n  + 3⋅n  - n  - 4⋅n - 4⎠
+    118 refined_triple_top.log:⎝a(n) = n  - 3⋅n  - n  + 3⋅n - 2, b(n) = n  + 3⋅n  - n  - 3⋅n - 1⎠
+    147 refined_triple_top.log:⎝a(n) = n  + 2⋅n  - n  + 2, b(n) = n  + 3⋅n  - n  - n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + 2⋅n  - n - 4, b(n) = n  + 3⋅n  - n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + 2⋅n  + 2⋅n + 2, b(n) = n  + 3⋅n  + 2⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + 2⋅n  + n  + n - 4, b(n) = n  + 3⋅n  + n  + 2⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + 2⋅n  + n  + 4⋅n + 2, b(n) = n  + 3⋅n  + n  + 5⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + 2⋅n  + 2⋅n  + 3⋅n - 4, b(n) = n  + 3⋅n  + 2⋅n  + 5⋅n - 4⎠
+     96 refined_triple_top.log:⎝a(n) = n  + 3⋅n  - 4⋅n  + n + 2, b(n) = n  + 4⋅n  - 5⋅n  + n + 4⎠
+    102 refined_triple_top.log:⎝a(n) = n  + 3⋅n  - n  - 4⋅n - 5, b(n) = n  + 4⋅n  - n  - 5⋅n - 5⎠
+    153 refined_triple_top.log:⎝a(n) = n  + 3⋅n  - n  - 2⋅n + 1, b(n) = n  + 4⋅n  - n  - 3⋅n + 3⎠
+    102 refined_triple_top.log:⎝a(n) = n  + 3⋅n  - n - 5, b(n) = n  + 4⋅n  - n - 5⎠
+    153 refined_triple_top.log:⎝a(n) = n  + 3⋅n  + n + 1, b(n) = n  + 4⋅n  + n + 3⎠
+    147 refined_triple_top.log:⎝a(n) = n  + 3⋅n  - 2⋅n + 2, b(n) = n  + 4⋅n  + n  - 4⋅n + 5⎠
+    153 refined_triple_top.log:⎝a(n) = n  + 3⋅n  + n  + 4⋅n + 1, b(n) = n  + 4⋅n  + n  + 5⋅n + 3⎠
+    197 refined_triple_top.log:⎝a(n) = n  + 3⋅n  + n  - 3⋅n - 4, b(n) = n  + 4⋅n  + 2⋅n  - 4⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + 3⋅n  + n  + 2, b(n) = n  + 4⋅n  + 2⋅n  - n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + 3⋅n  + 2⋅n  - n - 4, b(n) = n  + 4⋅n  + 3⋅n  - n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + 3⋅n  + 2⋅n  + 2⋅n + 2, b(n) = n  + 4⋅n  + 3⋅n  + 2⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + 3⋅n  + 3⋅n  + n - 4, b(n) = n  + 4⋅n  + 4⋅n  + 2⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + 3⋅n  + 3⋅n  + 4⋅n + 2, b(n) = n  + 4⋅n  + 4⋅n  + 5⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = n  + 3⋅n  + 4⋅n  + 3⋅n - 4, b(n) = n  + 4⋅n  + 5⋅n  + 5⋅n - 4⎠
+     96 refined_triple_top.log:⎝a(n) = n  + 4⋅n  - n  - 3⋅n + 2, b(n) = n  + 5⋅n  - n  - 4⋅n + 4⎠
+     96 refined_triple_top.log:⎝a(n) = n  + 4⋅n  + n + 2, b(n) = n  + 5⋅n  + n + 4⎠
+    102 refined_triple_top.log:⎝a(n) = n  + 4⋅n  + 2⋅n  - 4⋅n - 5, b(n) = n  + 5⋅n  + 3⋅n  - 5⋅n - 5⎠
+    153 refined_triple_top.log:⎝a(n) = n  + 4⋅n  + 2⋅n  - 2⋅n + 1, b(n) = n  + 5⋅n  + 3⋅n  - 3⋅n + 3⎠
+    147 refined_triple_top.log:⎝a(n) = n  + 4⋅n  + 2⋅n  - 2⋅n + 2, b(n) = n  + 5⋅n  + 4⋅n  - 4⋅n + 5⎠
+    153 refined_triple_top.log:⎝a(n) = n  + 4⋅n  + 3⋅n  + n + 1, b(n) = n  + 5⋅n  + 4⋅n  + n + 3⎠
+    197 refined_triple_top.log:⎝a(n) = n  + 4⋅n  + 3⋅n  - 3⋅n - 4, b(n) = n  + 5⋅n  + 5⋅n  - 4⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = n  + 4⋅n  + 3⋅n  + 2, b(n) = n  + 5⋅n  + 5⋅n  - n + 5⎠
+    153 refined_triple_top.log:⎝a(n) = n  + 4⋅n  + 4⋅n  + 4⋅n + 1, b(n) = n  + 5⋅n  + 5⋅n  + 5⋅n + 3⎠
+    143 refined_triple_top.log:⎝a(n) = n  - 4⋅n  + n  + 2⋅n + 4, b(n) = 2⋅n  - 4⋅n  + 4⎠
+    107 refined_triple_top.log:⎝a(n) = n  - 4⋅n  + 4⋅n  - n + 4, b(n) = 2⋅n  - 4⋅n  + 4⋅n  - 2⋅n + 4⎠
+    143 refined_triple_top.log:⎝a(n) = 2⋅n  - 5⋅n  - 4⋅n  + n + 4, b(n) = 2⋅n  - 3⋅n  - 3⋅n  + 3⎠
+    143 refined_triple_top.log:⎝a(n) = 2⋅n  - 5⋅n  - 3⋅n  - 2⋅n + 4, b(n) = 2⋅n  - 3⋅n  - 2⋅n  - 2⋅n + 3⎠
+    143 refined_triple_top.log:⎝a(n) = 2⋅n  - 5⋅n  - 2⋅n  - 5⋅n + 4, b(n) = 2⋅n  - 3⋅n  - n  - 4⋅n + 3⎠
+    147 refined_triple_top.log:⎝a(n) = 2⋅n  - 5⋅n  - 2⋅n + 3, b(n) = 2⋅n  - 3⋅n  - 2⋅n + 2⎠
+    143 refined_triple_top.log:⎝a(n) = 2⋅n  - 4⋅n  - 5⋅n  - 5⋅n + 4, b(n) = 2⋅n  - 2⋅n  - 3⋅n  - 4⋅n + 3⎠
+    147 refined_triple_top.log:⎝a(n) = 2⋅n  - 3⋅n  - 5⋅n  - 2⋅n + 3, b(n) = 2⋅n  - n  - 3⋅n  - 2⋅n + 2⎠
+    131 refined_triple_top.log:⎝a(n) = 2⋅n  + n  - 3⋅n  + 2⋅n + 1, b(n) = 2⋅n  + 3⋅n  - 5⋅n  + 2⋅n + 4⎠
+    197 refined_triple_top.log:⎝a(n) = 2⋅n  + 2⋅n  - 3⋅n  + n - 4, b(n) = 2⋅n  + 4⋅n  - 5⋅n  + 2⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = 2⋅n  + 2⋅n  - 3⋅n  + 4⋅n + 2, b(n) = 2⋅n  + 4⋅n  - 5⋅n  + 5⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = 2⋅n  + 2⋅n  - 2⋅n  + 3⋅n - 4, b(n) = 2⋅n  + 4⋅n  - 4⋅n  + 5⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = 2⋅n  + 3⋅n  - 4⋅n  - 2⋅n + 2, b(n) = 2⋅n  + 5⋅n  - 5⋅n  - 4⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = 2⋅n  + 3⋅n  - 3⋅n  - 3⋅n - 4, b(n) = 2⋅n  + 5⋅n  - 4⋅n  - 4⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = 2⋅n  + 3⋅n  - 3⋅n  + 2, b(n) = 2⋅n  + 5⋅n  - 4⋅n  - n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = 2⋅n  + 3⋅n  - 2⋅n  - n - 4, b(n) = 2⋅n  + 5⋅n  - 3⋅n  - n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = 2⋅n  + 3⋅n  - 2⋅n  + 2⋅n + 2, b(n) = 2⋅n  + 5⋅n  - 3⋅n  + 2⋅n + 5⎠
+    131 refined_triple_top.log:⎝a(n) = 2⋅n  + 3⋅n  - 2⋅n  - n + 1, b(n) = 2⋅n  + 5⋅n  - 2⋅n  - 3⋅n + 4⎠
+    197 refined_triple_top.log:⎝a(n) = 2⋅n  + 3⋅n  - n  + n - 4, b(n) = 2⋅n  + 5⋅n  - 2⋅n  + 2⋅n - 4⎠
+    147 refined_triple_top.log:⎝a(n) = 2⋅n  + 3⋅n  - n  + 4⋅n + 2, b(n) = 2⋅n  + 5⋅n  - 2⋅n  + 5⋅n + 5⎠
+    197 refined_triple_top.log:⎝a(n) = 2⋅n  + 3⋅n  + 3⋅n - 4, b(n) = 2⋅n  + 5⋅n  - n  + 5⋅n - 4⎠
+    131 refined_triple_top.log:⎝a(n) = 2⋅n  + 3⋅n  + 2⋅n + 1, b(n) = 2⋅n  + 5⋅n  + 2⋅n + 4⎠
+    181 refined_triple_top.log:⎝a(n) = 3⋅n  - n  - 2⋅n  + 3⋅n, b(n) = 3⋅n  + 2⋅n  - 5⋅n  + 3⋅n + 4⎠
+    181 refined_triple_top.log:⎝a(n) = 3⋅n  + 2⋅n  - 3⋅n  + n, b(n) = 3⋅n  + 5⋅n  - 3⋅n  - 2⋅n + 4⎠
+    181 refined_triple_top.log:⎝a(n) = 3⋅n  + 2⋅n  + 3⋅n, b(n) = 3⋅n  + 5⋅n  + 3⋅n + 4⎠
+    177 refined_triple_top.log:⎝a(n) = 4⋅n  - 4⋅n  + n  + n - 4, b(n) = 4⋅n  + 4⋅n  - 3⋅n  + 5⋅n - 3⎠
+    124 refined_triple_top.log:⎝a(n) = 4⋅n  - 4⋅n  + 5⋅n  - 2⋅n - 1, b(n) = 4⋅n  + 4⋅n  + n  - 2⋅n + 4⎠
+    197 refined_triple_top.log:⎝a(n) = 5⋅n  - 2⋅n  - 5⋅n, b(n) = 5⋅n  + 3⋅n  - 5⋅n - 4⎠
+     87 triple_target_pi_higgs_137.log:⎝a(n) = 3⋅n  - n  - 4⋅n + 4, b(n) = - 6⋅n  - 4⋅n  + 2⋅n - 4⎠
+     87 triple_target_pi_higgs_137.log:⎝a(n) = 3⋅n  - 4⋅n  + 4, b(n) = - 6⋅n  + 2⋅n  - 4⎠
+    110 triple_target_pi_higgs_137.log:⎝a(n) = 3⋅n  - 4⋅n  - 4⋅n - 3, b(n) = - 6⋅n  + 2⋅n  + 2⋅n + 4⎠
+     30 triple_target_pi_higgs_137.log:⎝a(n) = 3⋅n  - 5⋅n  - 5⋅n - 4, b(n) = - 6⋅n  + 4⋅n  + 4⋅n + 6⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = 5⋅n  - 2⋅n  + 5⋅n, b(n) = - 5⋅n  - 3⋅n  - 5⋅n - 4⎠
+     42 triple_target_pi_higgs_137.log:⎝a(n) = 5⋅n  - 3⋅n  - 3⋅n - 6, b(n) = - 5⋅n  - 2⋅n  - 2⋅n + 2⎠
+     60 triple_target_pi_higgs_137.log:⎝a(n) = 4⋅n  - 2⋅n  + 2⋅n + 1, b(n) = - 4⋅n  - 6⋅n  - 2⋅n + 4⎠
+     44 triple_target_pi_higgs_137.log:⎝a(n) = 4⋅n  - 2⋅n  - 4⋅n + 4, b(n) = - 4⋅n  - 6⋅n  + 4⋅n - 3⎠
+     49 triple_target_pi_higgs_137.log:⎝a(n) = 4⋅n  - 3⋅n  - 3⋅n - 5, b(n) = - 4⋅n  - n  - n + 2⎠
+     63 triple_target_pi_higgs_137.log:⎝a(n) = 3⋅n  + 2⋅n  + 3⋅n + 4, b(n) = - 3⋅n  - 5⋅n  - 3⋅n - 6⎠
+     81 triple_target_pi_higgs_137.log:⎝a(n) = 3⋅n  - n  + 3, b(n) = - 3⋅n  - 5⋅n  + 4⋅n - 4⎠
+     63 triple_target_pi_higgs_137.log:⎝a(n) = 3⋅n  - n  + n + 4, b(n) = - 3⋅n  - 2⋅n  + 2⋅n - 6⎠
+     34 triple_target_pi_higgs_137.log:⎝a(n) = 3⋅n  - 4⋅n  - 4⋅n - 5, b(n) = - 3⋅n  + n  + n + 3⎠
+     87 triple_target_pi_higgs_137.log:⎝a(n) = 3⋅n  - 4⋅n  - 3⋅n + 6, b(n) = - 3⋅n  + n  + 3⋅n - 2⎠
+     22 triple_target_pi_higgs_137.log:⎝a(n) = 3⋅n  - 5⋅n  - 5⋅n - 6, b(n) = - 3⋅n  + 2⋅n  + 2⋅n + 4⎠
+    110 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  - 4⋅n  - 6⋅n + 2, b(n) = - 2⋅n  - 6⋅n  - 4⋅n - 1⎠
+    102 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  + 2⋅n  + n + 3, b(n) = - 2⋅n  - 6⋅n  - 3⋅n - 4⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  + 4⋅n  + n + 4, b(n) = - 2⋅n  - 6⋅n  - n - 4⎠
+     86 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  + 4⋅n  - 2⋅n - 2, b(n) = - 2⋅n  - 6⋅n  + 2⋅n + 5⎠
+     42 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  + 3⋅n  + 2⋅n + 5, b(n) = - 2⋅n  - 5⋅n  - 2⋅n - 6⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  + 3⋅n  - n + 4, b(n) = - 2⋅n  - 5⋅n  + 2⋅n - 4⎠
+     86 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  + 3⋅n  - 4⋅n - 2, b(n) = - 2⋅n  - 5⋅n  + 5⋅n + 5⎠
+     87 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  - 2⋅n  - 3⋅n + 6, b(n) = - 2⋅n  - 4⋅n  - 3⋅n - 2⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  + 2⋅n  - 3⋅n + 4, b(n) = - 2⋅n  - 4⋅n  + 5⋅n - 4⎠
+     97 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  - 3⋅n + 2, b(n) = - 2⋅n  - 4⋅n  + 5⋅n + 3⎠
+     42 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  + n  - n + 5, b(n) = - 2⋅n  - 3⋅n  + 3⋅n - 6⎠
+     28 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  - n  - 4⋅n + 4, b(n) = - 2⋅n  - 3⋅n  + 4⋅n - 3⎠
+     85 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  - 3⋅n  - 4⋅n, b(n) = - 2⋅n  - n  + 4⋅n + 1⎠
+     86 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  - 3⋅n  - 3⋅n - 3, b(n) = - 2⋅n  + n  + n + 2⎠
+     50 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  - 4⋅n  - 4⋅n - 4, b(n) = - 2⋅n  + 2⋅n  + 2⋅n + 3⎠
+     86 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  - 5⋅n  + 2⋅n - 3, b(n) = - 2⋅n  + 3⋅n  - 2⋅n + 2⎠
+     50 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  - 5⋅n  - n - 4, b(n) = - 2⋅n  + 3⋅n  + 3⎠
+     50 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  - 6⋅n  + 2⋅n - 4, b(n) = - 2⋅n  + 4⋅n  - 2⋅n + 3⎠
+     33 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  - 6⋅n  - 6⋅n - 6, b(n) = - 2⋅n  + 4⋅n  + 4⋅n + 5⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = n  - 3⋅n  - 4⋅n + 4, b(n) = - 2⋅n  + 4⋅n  + 6⋅n - 4⎠
+     30 triple_target_pi_higgs_137.log:⎝a(n) = n  + 5⋅n  + 5⋅n + 6, b(n) = - n  - 6⋅n  - 6⋅n - 6⎠
+     24 triple_target_pi_higgs_137.log:⎝a(n) = n  + 4⋅n  + n - 1, b(n) = - n  - 6⋅n  - 5⋅n + 6⎠
+     28 triple_target_pi_higgs_137.log:⎝a(n) = n  + 5⋅n  - n - 3, b(n) = - n  - 6⋅n  + n + 5⎠
+    110 triple_target_pi_higgs_137.log:⎝a(n) = n  - 4⋅n + 2, b(n) = - n  - 5⋅n  - 6⋅n - 1⎠
+     88 triple_target_pi_higgs_137.log:⎝a(n) = n  + 3⋅n  + 2⋅n + 1, b(n) = - n  - 5⋅n  - 6⋅n + 2⎠
+     53 triple_target_pi_higgs_137.log:⎝a(n) = n  + 4⋅n  + 4⋅n + 5, b(n) = - n  - 5⋅n  - 5⋅n - 5⎠
+     86 triple_target_pi_higgs_137.log:⎝a(n) = n  + 4⋅n  + 2⋅n - 2, b(n) = - n  - 5⋅n  - 4⋅n + 5⎠
+     30 triple_target_pi_higgs_137.log:⎝a(n) = n  + 4⋅n  + n + 6, b(n) = - n  - 5⋅n  - n - 6⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = n  + 3⋅n  + 3⋅n + 4, b(n) = - n  - 4⋅n  - 4⋅n - 4⎠
+     48 triple_target_pi_higgs_137.log:⎝a(n) = n  + n  - n + 1, b(n) = - n  - 4⋅n  - 2⋅n - 3⎠
+     53 triple_target_pi_higgs_137.log:⎝a(n) = n  + 3⋅n  + n + 5, b(n) = - n  - 4⋅n  - n - 5⎠
+    102 triple_target_pi_higgs_137.log:⎝a(n) = n  + n  - 2⋅n + 3, b(n) = - n  - 4⋅n  - n + 4⎠
+     68 triple_target_pi_higgs_137.log:⎝a(n) = n  - 2⋅n  - 5⋅n + 2, b(n) = - n  - 4⋅n  - n + 5⎠
+     86 triple_target_pi_higgs_137.log:⎝a(n) = n  + 3⋅n  - 2, b(n) = - n  - 4⋅n  - n + 5⎠
+     30 triple_target_pi_higgs_137.log:⎝a(n) = n  + 3⋅n  - 3⋅n + 6, b(n) = - n  - 4⋅n  + 4⋅n - 6⎠
+     41 triple_target_pi_higgs_137.log:⎝a(n) = n  + 3⋅n  - 5⋅n - 2, b(n) = - n  - 4⋅n  + 6⋅n + 4⎠
+    110 triple_target_pi_higgs_137.log:⎝a(n) = n  - 2⋅n  - 3⋅n + 2, b(n) = - n  - 3⋅n  - 2⋅n - 1⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = n  + 2⋅n  + n + 4, b(n) = - n  - 3⋅n  - n - 4⎠
+     67 triple_target_pi_higgs_137.log:⎝a(n) = n  - 3⋅n  - 4⋅n + 4, b(n) = - n  - 3⋅n  + 3⎠
+     86 triple_target_pi_higgs_137.log:⎝a(n) = n  + 2⋅n  - 2⋅n - 2, b(n) = - n  - 3⋅n  + 2⋅n + 5⎠
+     53 triple_target_pi_higgs_137.log:⎝a(n) = n  + 2⋅n  - 2⋅n + 5, b(n) = - n  - 3⋅n  + 3⋅n - 5⎠
+     81 triple_target_pi_higgs_137.log:⎝a(n) = n  + 2⋅n  - 4⋅n - 1, b(n) = - n  - 3⋅n  + 5⋅n + 3⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = n  + n  - n + 4, b(n) = - n  - 2⋅n  + 2⋅n - 4⎠
+     86 triple_target_pi_higgs_137.log:⎝a(n) = n  + n  - 4⋅n - 2, b(n) = - n  - 2⋅n  + 5⋅n + 5⎠
+     89 triple_target_pi_higgs_137.log:⎝a(n) = n  - 2⋅n  + 2, b(n) = - n  - n  + 3⋅n - 4⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = n  - 3⋅n + 4, b(n) = - n  - n  + 5⋅n - 4⎠
+     60 triple_target_pi_higgs_137.log:⎝a(n) = n  - 5⋅n  + 4⋅n + 2, b(n) = - n  + n - 1⎠
+     50 triple_target_pi_higgs_137.log:⎝a(n) = n  - n  - 4⋅n - 4, b(n) = - n  + 2⋅n + 3⎠
+     60 triple_target_pi_higgs_137.log:⎝a(n) = n  - 6⋅n  + 5⋅n + 4, b(n) = - n  + 3⋅n + 1⎠
+     50 triple_target_pi_higgs_137.log:⎝a(n) = n  - 2⋅n  - n - 4, b(n) = - n  + n  + 3⎠
+     33 triple_target_pi_higgs_137.log:⎝a(n) = n  - 2⋅n  - 6⋅n - 6, b(n) = - n  + n  + 4⋅n + 5⎠
+     50 triple_target_pi_higgs_137.log:⎝a(n) = n  - 3⋅n  + 2⋅n - 4, b(n) = - n  + 2⋅n  - 2⋅n + 3⎠
+     50 triple_target_pi_higgs_137.log:⎝a(n) = n  - 3⋅n  - n + 5, b(n) = - n  + 2⋅n  + n - 3⎠
+     33 triple_target_pi_higgs_137.log:⎝a(n) = n  - 3⋅n  - 2⋅n - 6, b(n) = - n  + 2⋅n  + n + 5⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = n  - 3⋅n  - 3⋅n - 2, b(n) = - n  + 2⋅n  + 2⋅n + 2⎠
+     42 triple_target_pi_higgs_137.log:⎝a(n) = n  - 3⋅n  - 5⋅n + 6, b(n) = - n  + 2⋅n  + 4⋅n - 4⎠
+     50 triple_target_pi_higgs_137.log:⎝a(n) = n  - 4⋅n  + 5⋅n - 4, b(n) = - n  + 3⋅n  - 4⋅n + 3⎠
+     49 triple_target_pi_higgs_137.log:⎝a(n) = n  - 5⋅n  + 6⋅n + 5, b(n) = - n  + 3⋅n  - 2⋅n - 2⎠
+     33 triple_target_pi_higgs_137.log:⎝a(n) = n  - 4⋅n  + 2⋅n - 6, b(n) = - n  + 3⋅n  - 2⋅n + 5⎠
+     50 triple_target_pi_higgs_137.log:⎝a(n) = n  - 4⋅n  + 2⋅n + 5, b(n) = - n  + 3⋅n  - n - 3⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = n  - 4⋅n  + n - 2, b(n) = - n  + 3⋅n  - n + 2⎠
+     42 triple_target_pi_higgs_137.log:⎝a(n) = n  - 4⋅n  - n + 6, b(n) = - n  + 3⋅n  + n - 4⎠
+     53 triple_target_pi_higgs_137.log:⎝a(n) = n  - 4⋅n  - 4⋅n - 3, b(n) = - n  + 3⋅n  + 3⋅n + 3⎠
+     33 triple_target_pi_higgs_137.log:⎝a(n) = n  - 5⋅n  + 6⋅n - 6, b(n) = - n  + 4⋅n  - 5⋅n + 5⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = n  - 5⋅n  + 5⋅n - 2, b(n) = - n  + 4⋅n  - 4⋅n + 2⎠
+     50 triple_target_pi_higgs_137.log:⎝a(n) = n  - 5⋅n  + 5⋅n + 5, b(n) = - n  + 4⋅n  - 3⋅n - 3⎠
+     53 triple_target_pi_higgs_137.log:⎝a(n) = n  - 5⋅n  + n - 3, b(n) = - n  + 4⋅n  - n + 3⎠
+     53 triple_target_pi_higgs_137.log:⎝a(n) = n  - 6⋅n  + 6⋅n - 3, b(n) = - n  + 5⋅n  - 5⋅n + 3⎠
+     18 triple_target_pi_higgs_137.log:⎝a(n) = n  - 6⋅n  - 6⋅n - 5, b(n) = - n  + 5⋅n  + 5⋅n + 5⎠
+     33 triple_target_pi_higgs_137.log:⎝a(n) = n  - 6⋅n  + 6⋅n + 6, b(n) = n  - 5⋅n  + 4⋅n + 5⎠
+     53 triple_target_pi_higgs_137.log:⎝a(n) = n  - 5⋅n  - n + 3, b(n) = n  - 4⋅n  - n + 3⎠
+     33 triple_target_pi_higgs_137.log:⎝a(n) = n  - 5⋅n  + 2⋅n + 6, b(n) = n  - 4⋅n  + n + 5⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = n  - 5⋅n  + 3⋅n + 2, b(n) = n  - 4⋅n  + 2⋅n + 2⎠
+     42 triple_target_pi_higgs_137.log:⎝a(n) = n  - 5⋅n  + 5⋅n - 6, b(n) = n  - 4⋅n  + 4⋅n - 4⎠
+     53 triple_target_pi_higgs_137.log:⎝a(n) = n  - 4⋅n  - 6⋅n + 3, b(n) = n  - 3⋅n  - 5⋅n + 3⎠
+     33 triple_target_pi_higgs_137.log:⎝a(n) = n  - 4⋅n  - 2⋅n + 6, b(n) = n  - 3⋅n  - 2⋅n + 5⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = n  - 4⋅n  - n + 2, b(n) = n  - 3⋅n  - n + 2⎠
+     42 triple_target_pi_higgs_137.log:⎝a(n) = n  - 4⋅n  + n - 6, b(n) = n  - 3⋅n  + n - 4⎠
+     33 triple_target_pi_higgs_137.log:⎝a(n) = n  - 3⋅n  - 6⋅n + 6, b(n) = n  - 2⋅n  - 5⋅n + 5⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = n  - 3⋅n  - 5⋅n + 2, b(n) = n  - 2⋅n  - 4⋅n + 2⎠
+     42 triple_target_pi_higgs_137.log:⎝a(n) = n  - 3⋅n  - 3⋅n - 6, b(n) = n  - 2⋅n  - 2⋅n - 4⎠
+     50 triple_target_pi_higgs_137.log:⎝a(n) = n  - 2⋅n  - 5⋅n + 4, b(n) = n  - n  - 4⋅n + 3⎠
+     60 triple_target_pi_higgs_137.log:⎝a(n) = n  - 5⋅n  + 4⋅n - 2, b(n) = n  - n - 1⎠
+     86 triple_target_pi_higgs_137.log:⎝a(n) = n  - 2⋅n + 2, b(n) = n  + n  - 4⋅n + 5⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = n  + n  - 3⋅n - 4, b(n) = n  + 2⋅n  - 4⋅n - 4⎠
+     86 triple_target_pi_higgs_137.log:⎝a(n) = n  + n  + 2, b(n) = n  + 2⋅n  - n + 5⎠
+     53 triple_target_pi_higgs_137.log:⎝a(n) = n  + 2⋅n  - 4⋅n - 5, b(n) = n  + 3⋅n  - 5⋅n - 5⎠
+     81 triple_target_pi_higgs_137.log:⎝a(n) = n  + 2⋅n  - 2⋅n + 1, b(n) = n  + 3⋅n  - 3⋅n + 3⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = n  + 2⋅n  - n - 4, b(n) = n  + 3⋅n  - n - 4⎠
+     86 triple_target_pi_higgs_137.log:⎝a(n) = n  + 2⋅n  + 2⋅n + 2, b(n) = n  + 3⋅n  + 2⋅n + 5⎠
+     30 triple_target_pi_higgs_137.log:⎝a(n) = n  + 3⋅n  - 5⋅n - 6, b(n) = n  + 4⋅n  - 6⋅n - 6⎠
+     41 triple_target_pi_higgs_137.log:⎝a(n) = n  + 3⋅n  - 3⋅n + 2, b(n) = n  + 4⋅n  - 4⋅n + 4⎠
+     53 triple_target_pi_higgs_137.log:⎝a(n) = n  + 3⋅n  - n - 5, b(n) = n  + 4⋅n  - n - 5⎠
+     35 triple_target_pi_higgs_137.log:⎝a(n) = n  + 2⋅n  - 4, b(n) = n  + 4⋅n  + n - 5⎠
+     81 triple_target_pi_higgs_137.log:⎝a(n) = n  + 3⋅n  + n + 1, b(n) = n  + 4⋅n  + n + 3⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = n  + 3⋅n  + n - 4, b(n) = n  + 4⋅n  + 2⋅n - 4⎠
+     68 triple_target_pi_higgs_137.log:⎝a(n) = n  - n  - 2⋅n - 2, b(n) = n  + 4⋅n  + 3⋅n - 1⎠
+     86 triple_target_pi_higgs_137.log:⎝a(n) = n  + 3⋅n  + 4⋅n + 2, b(n) = n  + 4⋅n  + 5⋅n + 5⎠
+     28 triple_target_pi_higgs_137.log:⎝a(n) = n  + 4⋅n  - 4⋅n + 3, b(n) = n  + 5⋅n  - 5⋅n + 5⎠
+      8 triple_target_pi_higgs_137.log:⎝a(n) = n  + 2⋅n  - 5⋅n - 4, b(n) = n  + 5⋅n  - 2⋅n - 3⎠
+     30 triple_target_pi_higgs_137.log:⎝a(n) = n  + 4⋅n  - n - 6, b(n) = n  + 5⋅n  - n - 6⎠
+     41 triple_target_pi_higgs_137.log:⎝a(n) = n  + 4⋅n  + n + 2, b(n) = n  + 5⋅n  + n + 4⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = n  + 4⋅n  + 3⋅n - 4, b(n) = n  + 5⋅n  + 5⋅n - 4⎠
+     81 triple_target_pi_higgs_137.log:⎝a(n) = n  + 4⋅n  + 4⋅n + 1, b(n) = n  + 5⋅n  + 5⋅n + 3⎠
+    110 triple_target_pi_higgs_137.log:⎝a(n) = n  - 4⋅n - 2, b(n) = n  + 5⋅n  + 6⋅n - 1⎠
+     16 triple_target_pi_higgs_137.log:⎝a(n) = n  + 5⋅n  - 5⋅n + 4, b(n) = n  + 6⋅n  - 6⋅n + 6⎠
+     28 triple_target_pi_higgs_137.log:⎝a(n) = n  + 5⋅n  + n + 3, b(n) = n  + 6⋅n  + n + 5⎠
+     41 triple_target_pi_higgs_137.log:⎝a(n) = n  + 5⋅n  + 5⋅n + 2, b(n) = n  + 6⋅n  + 6⋅n + 4⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = n  - 4⋅n  - 4, b(n) = 2⋅n  - 6⋅n  - 4⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = n  - 3⋅n  - 4⋅n - 4, b(n) = 2⋅n  - 4⋅n  - 6⋅n - 4⎠
+     24 triple_target_pi_higgs_137.log:⎝a(n) = n  - 5⋅n  + 2⋅n + 5, b(n) = 2⋅n  - 4⋅n  - 2⋅n + 2⎠
+     50 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  - 6⋅n  - 2⋅n + 4, b(n) = 2⋅n  - 4⋅n  - 2⋅n + 3⎠
+     50 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  - 5⋅n  - 5⋅n + 4, b(n) = 2⋅n  - 3⋅n  - 4⋅n + 3⎠
+     86 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  - 5⋅n  - 2⋅n + 3, b(n) = 2⋅n  - 3⋅n  - 2⋅n + 2⎠
+     49 triple_target_pi_higgs_137.log:⎝a(n) = n  - 3⋅n  - n + 4, b(n) = 2⋅n  - 2⋅n  - 2⋅n + 4⎠
+     50 triple_target_pi_higgs_137.log:⎝a(n) = n  - 3⋅n  - n - 5, b(n) = 2⋅n  - 2⋅n  - 4⎠
+     85 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  - 5⋅n  - n, b(n) = 2⋅n  - n  - 5⋅n + 1⎠
+     30 triple_target_pi_higgs_137.log:⎝a(n) = n  - 5⋅n  + 4⋅n - 4, b(n) = 2⋅n  - 2⋅n - 4⎠
+     61 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  - 3⋅n  + 4⋅n, b(n) = 2⋅n  + n  + 4⋅n + 1⎠
+     63 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  + n  - n + 1, b(n) = 2⋅n  + 3⋅n  - 3⋅n + 4⎠
+     27 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  - n  + 4⋅n - 4, b(n) = 2⋅n  + 3⋅n  + 4⋅n - 3⎠
+     86 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  + 2⋅n  - 2⋅n + 2, b(n) = 2⋅n  + 4⋅n  - 4⋅n + 5⎠
+     22 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  + 3⋅n  - 3⋅n + 3, b(n) = 2⋅n  + 5⋅n  - 5⋅n + 6⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  + 3⋅n  - 3⋅n - 4, b(n) = 2⋅n  + 5⋅n  - 4⋅n - 4⎠
+     42 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  + 3⋅n  - 2⋅n - 5, b(n) = 2⋅n  + 5⋅n  - 2⋅n - 6⎠
+     86 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  + 3⋅n  + 2, b(n) = 2⋅n  + 5⋅n  - n + 5⎠
+     63 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  + 3⋅n  + 2⋅n + 1, b(n) = 2⋅n  + 5⋅n  + 2⋅n + 4⎠
+     81 triple_target_pi_higgs_137.log:⎝a(n) = n  + n  - 4, b(n) = 2⋅n  + 6⋅n  - 2⋅n - 2⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  + 4⋅n  - n - 4, b(n) = 2⋅n  + 6⋅n  - n - 4⎠
+     86 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  + 4⋅n  + 2⋅n + 2, b(n) = 2⋅n  + 6⋅n  + 2⋅n + 5⎠
+     89 triple_target_pi_higgs_137.log:⎝a(n) = 3⋅n  - n  + n, b(n) = 3⋅n  + 2⋅n  - 2⋅n + 4⎠
+     30 triple_target_pi_higgs_137.log:⎝a(n) = 3⋅n  + n  - n + 2, b(n) = 3⋅n  + 4⋅n  - 4⋅n + 6⎠
+     63 triple_target_pi_higgs_137.log:⎝a(n) = 3⋅n  + 2⋅n  - 3⋅n - 4, b(n) = 3⋅n  + 5⋅n  - 3⋅n - 6⎠
+     89 triple_target_pi_higgs_137.log:⎝a(n) = 3⋅n  + 2⋅n  + 3⋅n, b(n) = 3⋅n  + 5⋅n  + 3⋅n + 4⎠
+    110 triple_target_pi_higgs_137.log:⎝a(n) = 3⋅n  + n - 3, b(n) = 3⋅n  + 6⋅n  + n - 2⎠
+     86 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  - 5⋅n  - 4, b(n) = 4⋅n  - 6⋅n  - 4⎠
+     86 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  - 3⋅n  - 5⋅n - 4, b(n) = 4⋅n  - 2⋅n  - 6⋅n - 4⎠
+     97 triple_target_pi_higgs_137.log:⎝a(n) = 4⋅n  - 6⋅n  + 4⋅n, b(n) = 4⋅n  + 2⋅n  + 4⋅n + 1⎠
+     41 triple_target_pi_higgs_137.log:⎝a(n) = 4⋅n  - n  + n + 1, b(n) = 4⋅n  + 3⋅n  - 3⋅n + 6⎠
+     85 triple_target_pi_higgs_137.log:⎝a(n) = 2⋅n  + n  - n - 1, b(n) = 4⋅n  + 6⋅n  - 6⋅n + 6⎠
+     57 triple_target_pi_higgs_137.log:⎝a(n) = 4⋅n  - 2⋅n  + 4⋅n - 4, b(n) = 4⋅n  + 6⋅n  + 4⋅n - 3⎠
+     97 triple_target_pi_higgs_137.log:⎝a(n) = n  - 2⋅n  - 3⋅n - 4, b(n) = 5⋅n  - 5⋅n - 5⎠
+     60 triple_target_pi_higgs_137.log:⎝a(n) = 5⋅n  - 3⋅n  + 3⋅n, b(n) = 5⋅n  + 2⋅n  - 2⋅n + 6⎠
+     80 triple_target_pi_higgs_137.log:⎝a(n) = 5⋅n  - 2⋅n  - 5⋅n, b(n) = 5⋅n  + 3⋅n  - 5⋅n - 4⎠
+     88 triple_target_pi_higgs_137.log:⎝a(n) = 6⋅n  - 5⋅n  + 5⋅n - 1, b(n) = 6⋅n  + n  - n + 6⎠
+      2 vm1_double_pi_higgs_widening.log:⎝a(n) = 2⋅n  - 3⋅n  + 3⋅n - 3, b(n) = - 2⋅n  - n  + n + 8⎠
