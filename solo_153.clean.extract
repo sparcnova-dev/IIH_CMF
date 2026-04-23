@@ -1,7 +1,0 @@
-=== DEDUPLICATED CANDIDATES - FORMATTED ===
-
-Candidate 1:
-* a(n) = n + 2*n - 5*n - 4, b(n) = n + 5*n - 2*n - 3⎠
-* Converged with a rate of 6.4359 digits per term
-* No continued fraction block found
---------------------------------------------------------------------------------
