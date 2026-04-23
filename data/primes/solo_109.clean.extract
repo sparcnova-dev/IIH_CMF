@@ -1,0 +1,24 @@
+=== DEDUPLICATED CANDIDATES - FORMATTED ===
+
+Candidate 1:
+* a(n) = 3*n - 4*n - 4*n - 5, b(n) = - 3*n + n + n + 3⎠
+* Converged with a rate of 6.9041 digits per term
+* 7 = 4 + ───────────────────────
+                        26        
+           5 + ───────────────────
+                          69      
+               22 + ──────────────
+                            142   
+                    61 + ─────────
+                               251
+                         128 + ───
+                                ..
+⎛        3      2                    3      2          ⎞
+⎝a(n) = n  + 5⋅n  - 5⋅n + 4, b(n) = n  + 6⋅n  - 6⋅n + 6⎠
+--------------------------------------------------------------------------------
+
+Candidate 2:
+* a(n) = n + 5*n - 5*n + 4, b(n) = n + 6*n - 6*n + 6⎠
+* Converged with a rate of 6.4505 digits per term
+* No continued fraction block found
+--------------------------------------------------------------------------------
